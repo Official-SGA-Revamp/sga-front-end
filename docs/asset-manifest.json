@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.b51a3233.css",
-    "main.js": "./static/js/main.2ede4352.js",
-    "static/js/787.ab6147a2.chunk.js": "./static/js/787.ab6147a2.chunk.js",
-    "index.html": "./index.html",
-    "main.b51a3233.css.map": "./static/css/main.b51a3233.css.map",
-    "main.2ede4352.js.map": "./static/js/main.2ede4352.js.map",
-    "787.ab6147a2.chunk.js.map": "./static/js/787.ab6147a2.chunk.js.map"
+    "main.css": "https://github.com/Official-SGA-Revamp/sga-front-end/static/css/main.b51a3233.css",
+    "main.js": "https://github.com/Official-SGA-Revamp/sga-front-end/static/js/main.78551e05.js",
+    "static/js/787.ab6147a2.chunk.js": "https://github.com/Official-SGA-Revamp/sga-front-end/static/js/787.ab6147a2.chunk.js",
+    "index.html": "https://github.com/Official-SGA-Revamp/sga-front-end/index.html",
+    "main.b51a3233.css.map": "https://github.com/Official-SGA-Revamp/sga-front-end/static/css/main.b51a3233.css.map",
+    "main.78551e05.js.map": "https://github.com/Official-SGA-Revamp/sga-front-end/static/js/main.78551e05.js.map",
+    "787.ab6147a2.chunk.js.map": "https://github.com/Official-SGA-Revamp/sga-front-end/static/js/787.ab6147a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b51a3233.css",
-    "static/js/main.2ede4352.js"
+    "static/js/main.78551e05.js"
   ]
 }
